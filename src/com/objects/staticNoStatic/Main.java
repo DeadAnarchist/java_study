@@ -1,4 +1,4 @@
-package com.staticNoStatic;
+package com.objects.staticNoStatic;
 
 public class Main {
 
