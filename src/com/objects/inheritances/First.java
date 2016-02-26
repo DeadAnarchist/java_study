@@ -1,8 +1,5 @@
 package com.objects.inheritances;
 
-/*
- * Created by 79815 on 14.02.2016.
- */
 public class First {
     private int a;
     private int b;

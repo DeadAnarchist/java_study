@@ -1,8 +1,5 @@
 package com.study;
 
-/*
- * Created by 79815 on 13.02.2016.
- */
 public class Function {
     public static void main(String[] args){
         System.out.println(calcSum(1, 2));

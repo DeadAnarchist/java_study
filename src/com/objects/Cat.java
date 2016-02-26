@@ -1,8 +1,5 @@
 package com.objects;
 
-/*
- * Created by 79815 on 13.02.2016.
- */
 public class Cat {
     private int age;
     private String name;

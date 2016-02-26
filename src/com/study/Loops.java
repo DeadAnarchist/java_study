@@ -1,8 +1,5 @@
 package com.study;
 
-/*
- * Created by 79815 on 13.02.2016.
- */
 public class Loops {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
