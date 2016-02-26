@@ -1,6 +1,6 @@
 package com.objects;
 
-class MyExeption extends Exception {
+class MyException extends Exception {
     @Override
     public void printStackTrace() {
         System.err.println("It's my first Exception");
@@ -31,7 +31,7 @@ public class Exceptions {
         }
 
         try {
-            throw new MyExeption();
+            throw new MyException();
         } catch (Exception ex4) {
             ex4.printStackTrace();
         }
